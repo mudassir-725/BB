@@ -28,9 +28,11 @@
 ### Installation
 
 **1. Clone the repository:**
-   ```bash
+   ```
+   bash
    git clone https://github.com/yourusername/BBLOOD.git
    cd BBLOOD
+   ```
    
 **2. Import the database schema:** 
    Create a MySQL database and import the provided .sql file located in the database directory.
