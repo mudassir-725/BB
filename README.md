@@ -40,7 +40,7 @@
 **3. Configure the database connection:**
     Update the database connection details in the config.php file.
    
-4. Start the web server and navigate to **http://localhost/BBLOOD** to access the application.
+**4.** Start the web server and navigate to **http://localhost/BBLOOD** to access the application.
 
 ### Usage
 
